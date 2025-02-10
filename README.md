@@ -1,4 +1,3 @@
-# Sentiment Analysis with Bidirectional LSTM
 # Sentiment Analysis
 
 This repo contains multiple implementations of sentiment analysis.
